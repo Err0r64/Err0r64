@@ -1,4 +1,7 @@
 ## Hi there 👋
+- 🌱 I’m currently learning 3D Modeling in Blender!
+- 👯 I’m looking to collaborate on anything related to Game Development! I have experience in gameplay programming and some experience in art and music. 
+
 
 <!--
 **Err0r64/Err0r64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
