@@ -1,6 +1,6 @@
 ## Hi there 👋
 - 🌱 I’m currently learning 3D Modeling in Blender!
-- 👯 I’m looking to collaborate on anything related to Game Development! I have experience in gameplay programming and some experience in art and music. 
+- 👯 I’m looking to collaborate on anything related to Game Development! I have experience in gameplay programming and some experience in art and music, but have yet to produce a full game. 
 
 
 <!--
